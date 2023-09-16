@@ -2,8 +2,8 @@
   "name": "njp-piston",
   "version": "0.0.5",
   "description": "A simple node.js wrapper for the Piston API that works well with types.",
-  "main": "lib/piton.js",
-  "types": "lib/piton.d.ts",
+  "main": "lib/piston.js",
+  "types": "lib/piston.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
