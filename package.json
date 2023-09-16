@@ -1,0 +1,24 @@
+{
+  "name": "njp-piston",
+  "version": "0.0.1",
+  "description": "A simple node.js wrapper for the Piston API that works well with types.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "piston",
+    "code-execution"
+  ],
+  "author": "Samuel Finocchio",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.5",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
