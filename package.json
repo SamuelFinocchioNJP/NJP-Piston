@@ -1,6 +1,6 @@
 {
   "name": "njp-piston",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple node.js wrapper for the Piston API that works well with types.",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
